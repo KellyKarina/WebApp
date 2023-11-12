@@ -18,6 +18,5 @@ Iniciará o servidor Jetty e disponibilizará o endereço padrão http://localho
 Depois de iniciado o servidor, é possivel acessar as seguintes rotas:
 
 - [http://localhost:8080/](http://localhost:8080/): Página inicial.
-- [http://localhost:8080/](http://localhost:8080/): 
-- [http://localhost:8080/](http://localhost:8080/): 
-- [http://localhost:8080/](http://localhost:8080/): 
+- [http://localhost:8080/aluno](http://localhost:8080/aluno): Aluno
+- [http://localhost:8080/professor](http://localhost:8080/professor): Professor
